@@ -61,6 +61,3 @@ git clone https://github.com/YOUR-USERNAME/QR-Code-Generator.git
 - Add custom QR code sizes.
 - Support logo insertion.
 - Save QR code history.
-## 📄 License
-
-This project is open-source and available under the MIT License.
